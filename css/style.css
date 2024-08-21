@@ -10,3 +10,20 @@
 .logo{
     width: 150px;
 }
+
+.header{
+    background: #F0FFF0;
+}
+
+.box{
+    padding: 5px;
+    width: 20%;
+    box-shadow: 5px 2px 15px gray;
+    justify-content: space-between;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.box:hover{
+    box-shadow: 5px 2px 20px gray;
+}

@@ -1,3 +1,6 @@
+body{
+    font-family: "Ubuntu", sans-serif;
+}
 .sign-in{
     width: 120px;
     border-radius: 50px;
@@ -26,4 +29,29 @@
 
 .box:hover{
     box-shadow: 5px 2px 20px gray;
+}
+
+.card-icon{
+    width: 20px;
+    float: left;
+    margin-right: 10px;
+}
+.man-img{
+    width: 200px;
+}
+
+.foot-area-bg{
+    background: #282531;
+
+}
+
+.footer-link{}
+.footer-link ul{}
+.footer-link ul li{
+    padding: 10px 5px;
+    list-style-type: none;
+}
+.footer-link ul li a{
+    color: #fff;
+    text-decoration: none;
 }
